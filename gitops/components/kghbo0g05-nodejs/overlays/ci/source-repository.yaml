@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: kghbo0g05-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/kghbo0g05-nodejs
